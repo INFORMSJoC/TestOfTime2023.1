@@ -2,7 +2,7 @@
 
 # JobShop
 
-JobShop is a set of C programs for the job-shop scheduling problem. The codes are based on the paper "A computational study of the job-shop scheduling problem" by David Applegate and William Cook, which appeared in ORSA Journal on Computing, Vol 3 No 2, 1991. The codes were written and tested on a variety of unix workstations in 1990. A set of test problems is included in the gzipped tarfile prob.tar.gz.
+JobShop is a set of C programs for the job-shop scheduling problem. The codes are based on the paper "A computational study of the job-shop scheduling problem" by David Applegate and William Cook, which appeared in ORSA Journal on Computing, Vol 3 No 2, 1991. A set of test problems is included in the gzipped tarfile prob.tar.gz.
 
 ## Cite
 
