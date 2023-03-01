@@ -10,7 +10,7 @@ To cite the contents of this respository, please cite both the paper and this re
 
 https://doi.org/10.1287/ijoc.3.2.149
 
-https://github.com/INFORMSJoC/TestOfTime2023.1
+https://github.com/INFORMSJoC/TestOfTime2023.1 **(REPLACE with the DOI)**
 
 Below is the BibTex for citing this snapshot of the respoitory.
 
@@ -20,7 +20,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
   publisher =     {INFORMS Journal on Computing},
   title =         {{JobShop}},
   year =          {1990},
-  doi =           {10.1287/ijoc.2019.0000.cd},
+  doi =           {**REPLACE with the DOI**},
   url =           {https://github.com/INFORMSJoC/TestOfTime2023.1},
 }  
 ```
