@@ -27,9 +27,9 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-The goal of this software is to demonstrate the effect of cache optimization.
+The codes are written in the old Kernighan & Richie style C. They are certainly old, but still compile with recent versions of gcc (albeit with a number of warnings).
 
-***CODES***
+## Command-line Interface
 
 DUMBO: An implementation of the naive branch and bound algorithm.
 
@@ -59,19 +59,3 @@ Usage slug: [-n integer] [-b integer] [-o integer] [-r] prob_file etimes_file
 ONEMACH: An implementation of Carlier's single machine algorithm.
 
 Usage onemach: /* INTERACTIVE */
-
-***FILES***
-
-Source files:
-
-boteval.c dumbo.c edges.c init.c onemach.c printp.c 
-botmain.c edge.c edgesub.c jobsort.c onemain.c slug.c 
-bottle.c edgemain.c getprob.c lbound.c preempt.c 
-
-Include files:
-
-bottle.h jobdefs.h
-
-Makefile:
-
-Makefile
