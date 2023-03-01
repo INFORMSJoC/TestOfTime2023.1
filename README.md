@@ -27,7 +27,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-The codes are written in the old Kernighan & Richie style C. They are certainly old, but still compile with recent versions of gcc (albeit with a number of warnings).
+The codes are written in the old Kernighan & Ritchie style C and tested on a variety of unix workstations in 1990. They are certainly old, but still compile with recent versions of gcc (albeit with a number of warnings).
 
 ## Command-line Interface
 
