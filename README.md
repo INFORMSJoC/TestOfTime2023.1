@@ -59,3 +59,7 @@ Usage slug: [-n integer] [-b integer] [-o integer] [-r] prob_file etimes_file
 ONEMACH: An implementation of Carlier's single machine algorithm.
 
 Usage onemach: /* INTERACTIVE */
+
+## Support
+
+The codes are provided as a record of the computational study reported in the research paper. We do not expect to provide updates to the codes, but we will be happy to clarify any points that may arise when running the command-line executables.
