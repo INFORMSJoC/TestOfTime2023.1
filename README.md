@@ -5,25 +5,22 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-JobShop is a set of C programs for the job-shop scheduling problem. The codes are based on the paper "A computational study of the job-shop scheduling problem" by David Applegate and William Cook, which appeared in ORSA Journal on Computing, Vol 3 No 2, 1991. A set of test problems is included in the gzipped tarfile prob.tar.gz.
+JobShop is a set of C programs for the job-shop scheduling problem. The codes are based on the paper "A computational study of the job-shop scheduling problem" by David Applegate and William Cook, which appeared in ORSA Journal on Computing, Vol 3 No 2, 1991. A set of test problems is included in the data directory.
 
 ## Cite
 
-To cite the contents of this respository, please cite both the paper and this repo, using their respective DOIs.
+The DOI for the research paper is
 
 https://doi.org/10.1287/ijoc.3.2.149
-
-https://github.com/INFORMSJoC/TestOfTime2023.1 **(REPLACE with the DOI)**
 
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{CacheTest,
-  author =        {T. Ralphs},
+@article{JobShop,
+  author =        {David Applegate, William Cook},
   publisher =     {INFORMS Journal on Computing},
   title =         {{JobShop}},
   year =          {1990},
-  doi =           {**REPLACE with the DOI**},
   url =           {https://github.com/INFORMSJoC/TestOfTime2023.1},
 }  
 ```
